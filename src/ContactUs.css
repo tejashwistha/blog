@@ -1,0 +1,15 @@
+/* src/components/ContactUs.css */
+.contact-us {
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form div {
+    margin: 10px 0;
+}

@@ -1,0 +1,13 @@
+/* src/components/BlogDetails.css */
+.blog-details {
+    padding: 20px;
+    text-align: center;
+}
+
+.comments {
+    margin-top: 20px;
+}
+
+.share {
+    margin-top: 20px;
+}

@@ -1,0 +1,21 @@
+/* src/components/BlogList.css */
+.blog-list {
+    padding: 20px;
+    text-align: center;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.page-item {
+    margin: 0 5px;
+}
+
+.page-link {
+    cursor: pointer;
+    text-decoration: none;
+    color: #007bff;
+}
